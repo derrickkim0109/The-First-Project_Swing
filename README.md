@@ -1,10 +1,10 @@
 # SWing_Project(MVC)
  @copyright :  김태현.박경미.최지석.송예진
  ### 시연 동영상 
-    https://www.youtube.com/watch?v=I4LTujov6hY
+ https://www.youtube.com/watch?v=I4LTujov6hY
 
  ### 이슈 탭에서 개발 화면을 확인할 수 있습니다. 
-    https://github.com/thlbyl0109/The-First-Project_Swing/issues/1
+ https://github.com/thlbyl0109/The-First-Project_Swing/issues/1
  
 # Main
  

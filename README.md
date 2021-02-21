@@ -1,5 +1,6 @@
 # SWing_Project(MVC)
- @copyright :  김태현.박경미.최지석.송예진
+ @copyright :  김태현 외 3명
+ - 담당업무 : 로그인, 회원가입, 마이페이지     
  ### 시연 동영상 
  https://www.youtube.com/watch?v=I4LTujov6hY
 
